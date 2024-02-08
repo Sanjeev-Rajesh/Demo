@@ -1,0 +1,15 @@
+.item{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    background-color: lightblue;
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}

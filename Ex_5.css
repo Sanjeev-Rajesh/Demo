@@ -1,0 +1,16 @@
+img{
+    width: 55px;
+    height: 55px;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+.div-container1{
+    background-color: aqua;
+}
+.float-right{
+    float: right;
+    padding-right: 50px;
+    color: ghostwhite;
+    padding-top: 15px;
+}

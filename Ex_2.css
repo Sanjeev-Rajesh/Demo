@@ -1,0 +1,91 @@
+.example-div{
+    height: 200px;
+    width: 750px;
+    min-width: none;
+    max-width: 500px;
+    border-style: dashed;
+    border-color: chartreuse;
+    border-radius: 15px;
+    border-width: 2px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    padding-right: 20px;
+    background-color: aqua;
+    overflow:scroll;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+body{
+    background-color: aquamarine;
+}
+.div-container1{
+    background-color: lightgreen;
+    border-style: groove;
+    border-color: green;
+    border-radius: 10px;
+    border-width: 3px;
+    margin-left: 550px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-right: 550px;
+}
+.header1{
+    text-align: center;
+}
+form{
+    padding-bottom: 35px;
+
+}
+.input1{
+    background-color: limegreen;
+    padding-left: 140px;
+    padding-right: 135px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+input{
+    border-radius: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.form-container{
+    padding-bottom: 35px;
+    text-align:left;
+    padding-left: 40px;
+}
+.label1{
+    padding-right: 80px;
+}
+.label2{
+    padding-right: 80px;
+}
+.label3{
+    padding-right: 95px;
+}
+.label4{
+    padding-right: 80px;
+}
+.label5{
+    padding-right: 25px;
+}
+.label6{
+    padding-right: 20px;
+}
+.label7{
+    padding-right: 20px;
+}
+.label8{
+    padding-right: 10px;
+}
+.label9{
+    padding-right: 35px;
+}
+.label10{
+    padding-right: 98px;
+}
+.Lorem1{
+    display: none;
+}

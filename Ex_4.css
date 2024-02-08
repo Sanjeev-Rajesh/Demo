@@ -1,0 +1,18 @@
+.absolute1{
+    position: absolute;
+    background-color: green;
+    top: 200px;
+    left: 200px;
+}
+.relative1{
+    position: relative;
+    top: 40px;
+    left: 40px;
+    background-color: red;
+}
+.fixed1{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: blue;
+}

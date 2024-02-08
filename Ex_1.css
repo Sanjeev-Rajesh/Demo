@@ -1,0 +1,47 @@
+p{
+    color: #A7209E;
+}
+.highlight{
+    color: blue;
+}
+#highlight{
+    color: green;
+}
+article p{
+    font-style: italic;
+}
+nav > ul{
+    list-style-type:circle;
+}
+h2 + p{
+    color: rgba(0, 137, 155, 0.784);
+}
+h3 ~ p{
+    color: #2058A7;
+}
+table, th, td {
+    border:1px solid black;
+}
+body{
+    background-color: lightblue;
+    background-image: url("https://picsum.photos/id/1/200/300");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 50%;
+    background-attachment: scroll;
+    font-family: 'Workbench', sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+.important1{
+    font-family: 'Cute Font', sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+}
+.important2{
+    font-family: 'Rubik Glitch Pop', system-ui;
+    font-size:xx-large;
+    font-weight: lighter;
+    font-style:oblique;
+}

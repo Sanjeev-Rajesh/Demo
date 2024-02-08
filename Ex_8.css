@@ -1,0 +1,28 @@
+.header , .footer{
+    text-align: center;
+    background-color: rgb(0, 187, 255);
+    padding: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: aliceblue;
+}
+.sidebar{
+    height:max-content;
+    background-color: blue;
+    padding-bottom: 438px;
+    float: left;
+    color: aliceblue;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 100px, 200px !important;
+    gap: 10px;
+    padding: 20px;
+}
+.item{
+    text-align: center;
+    padding: 92px;
+    background-color: lime;
+    color: white;
+}
