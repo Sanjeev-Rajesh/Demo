@@ -9,14 +9,14 @@
 .sidebar{
     height:max-content;
     background-color: blue;
-    padding-bottom: 438px;
+    padding-bottom: 645px;
     float: left;
     color: aliceblue;
 }
 .container{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 100px, 200px !important;
+    grid-template-rows: 100px, 200px;
     gap: 10px;
     padding: 20px;
 }
@@ -25,4 +25,10 @@
     padding: 92px;
     background-color: lime;
     color: white;
+    grid-column: span 2;
+}
+.item1{
+    display: grid;
+    height: 200px;
+    background-color: lime;
 }
